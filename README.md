@@ -1,5 +1,7 @@
 # SecondGemKarenMak
 
+[![Gem Version](https://badge.fury.io/rb/second_gem_karen_mak.png)](http://badge.fury.io/rb/second_gem_karen_mak)
+
 TODO: Write a gem description
 
 ## Installation
